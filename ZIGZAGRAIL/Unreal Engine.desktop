@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Unreal Engine
+Exec=env WINEPREFIX="/var/data/wine" wine C:\\\\Program\\ Files\\\\Epic\\ Games\\\\UE_5.1\\\\Engine\\\\Binaries\\\\Win64\\\\UnrealEditor.exe 
+Type=Application
+StartupNotify=true
+Comment=Launch Unreal Engine
+Path=/var/data/wine/dosdevices/c:/Program Files/Epic Games/UE_5.1
+Icon=510F_UnrealEditor.0
+StartupWMClass=unrealeditor.exe
